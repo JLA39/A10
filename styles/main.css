@@ -32,7 +32,7 @@ main h2 {
 main h3 {
 	font-size: 105%;
 }
-main a {
+main a:focus, main a:hover {
 	font-style: italic;
 }
 .shadow {
